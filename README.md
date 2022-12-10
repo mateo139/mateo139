@@ -3,7 +3,6 @@
     => creating calculators for engineering (civil, mechanical etc)
     => creating Building Information Modeling applications, basing on FreeCAD https://www.freecadweb.org/
 - 🌱 I’m currently learning Python on Harvard CS50 course
-- 💞️ I’m looking to collaborate on some projects
 - 📫 How to reach me:
     => mateo.laska@gmail.com 
 
