@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mateo139
-- 👀 I’m interested in Python by
+- 👀 I’m interested in programming (mainly Pyton) by
     => creating calculators for engineering (civil, mechanical etc)
     => creating Building Information Modeling applications, basing on FreeCAD https://www.freecadweb.org/
 - 🌱 I’m currently learning Python on Harvard CS50 course
