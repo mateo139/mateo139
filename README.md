@@ -1,3 +1,6 @@
+![image](https://user-images.githubusercontent.com/103432222/225713865-e320e7a7-78d2-4978-a422-8b85bc48f564.png)
+
+
 👋 Hi I'm Mateusz !
 
 ⚙ I'm a graduate master of engineering, but in fact the biggest satisfaction is given by building bridges between people and technology. That's why I love analyzing data, problems and the nature of physics!
