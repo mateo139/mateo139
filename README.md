@@ -8,7 +8,7 @@
 
 🐍 On this ```GitHub profile``` I want do train and present my Python programing skills.
 
-💪 **In the future I want to develop professional software for engineers as a programer or analyst..**
+💪 **In the future I want to develop professional software for engineers as a programer or technical analyst...**
 
 <!---
 mateo139/mateo139 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
