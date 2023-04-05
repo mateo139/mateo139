@@ -9,7 +9,7 @@
 
 🖥️ I've **cooperated not only with developers** of web applications, ERP system and databases (Python/C#/SQL), but **also with different specializations of engineers** , as well as with **sales departments and business owners**.
 
-🐍 On this ```GitHub profile``` I want do train and present my **Python programing skills progress**.
+🐍 On this ```GitHub profile``` I want to train and present my **Python programing skills progress**.
 
 💪 **In the future I want to develop professional software for engineers as a programer or technical analyst...**
 
