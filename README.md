@@ -3,7 +3,7 @@
 
 👋 Hi I'm **Mateusz !**
 
-⚙ I'm a graduate master of engineering, but in fact the **biggest satisfaction is given by building bridges between people and technology**. That's why I love analyzing data, problems and the nature of physics!
+⚙ I'm a graduate master of engineering, but in fact the **biggest satisfaction is given me by building bridges between people and technology**. That's why I love analyzing data, problems and the nature of physics!
 
 📈 I have **experience in developing IT tools for supporting sales and manufacturing processes** using Excel/VBA. 
 
